@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/amine/PycharmProjects/ML_Flow_Project/mlruns/884890395619742090/497e93a936384c688c6cb510ec3efc1b/artifacts
+deleted_time: 1735433319805
+end_time: 1735433206530
+entry_point_name: ''
+experiment_id: '884890395619742090'
+lifecycle_stage: deleted
+run_id: 497e93a936384c688c6cb510ec3efc1b
+run_name: Logistic Regression c = 1
+run_uuid: 497e93a936384c688c6cb510ec3efc1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735433200990
+status: 3
+tags: []
+user_id: amine

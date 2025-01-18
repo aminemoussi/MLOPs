@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/amine/PycharmProjects/ML_Flow_Project/mlruns/884890395619742090/0c3db48ff7fc449ea9713d0fc46bf27a/artifacts
+deleted_time: 1735432328521
+end_time: 1735432161878
+entry_point_name: ''
+experiment_id: '884890395619742090'
+lifecycle_stage: deleted
+run_id: 0c3db48ff7fc449ea9713d0fc46bf27a
+run_name: XGBClassifier With SMOTE
+run_uuid: 0c3db48ff7fc449ea9713d0fc46bf27a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735432148818
+status: 3
+tags: []
+user_id: amine

@@ -1,0 +1,10 @@
+aliases: {}
+creation_timestamp: 1735517279581
+description: 'The model was trained on the **first** version of the dataset.
+
+  The model with **c=0.5** parameter had a better accuracy than the one with **c=1**
+  parameter, but the latter had a better F1-Score.
+
+  Therefore **c=1** was chosen to be the challenger.'
+last_updated_timestamp: 1735517380490
+name: Logistic regressor

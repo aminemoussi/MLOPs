@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/amine/PycharmProjects/ML_Flow_Project/mlruns/884890395619742090
+creation_time: 1735431439447
+experiment_id: '884890395619742090'
+last_update_time: 1735431439447
+lifecycle_stage: active
+name: Logistic Regression vs Random Forest vs XGBoost vs Balanced XGBoost

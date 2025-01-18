@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/462502940406477728
+creation_time: 1735513770566
+experiment_id: '462502940406477728'
+last_update_time: 1735513770566
+lifecycle_stage: active
+name: Patient Readmission Prediction (Logistic Regression vs Random Forest vs XGBoost)

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/269518493755653415/128274e653f24cfa89b7439949ed9458/artifacts
+deleted_time: 1735514002117
+end_time: 1735427871694
+entry_point_name: ''
+experiment_id: '269518493755653415'
+lifecycle_stage: deleted
+run_id: 128274e653f24cfa89b7439949ed9458
+run_name: Logestic_regression_v1
+run_uuid: 128274e653f24cfa89b7439949ed9458
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735427865269
+status: 3
+tags: []
+user_id: amine

@@ -1,0 +1,20 @@
+artifact_path: Random Forest (Imbalanced)
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.10
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.1
+mlflow_version: 2.19.0
+model_size_bytes: 37597
+model_uuid: e9d164c7fb9740dd89bb003817be3349
+run_id: c150b50bd41c4cbbb2dd2bb2c2f1d0f5
+utc_time_created: '2025-01-18 20:35:59.938960'

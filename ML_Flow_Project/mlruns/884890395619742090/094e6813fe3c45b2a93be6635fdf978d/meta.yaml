@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/amine/PycharmProjects/ML_Flow_Project/mlruns/884890395619742090/094e6813fe3c45b2a93be6635fdf978d/artifacts
+deleted_time: 1735432481501
+end_time: 1735432267091
+entry_point_name: ''
+experiment_id: '884890395619742090'
+lifecycle_stage: deleted
+run_id: 094e6813fe3c45b2a93be6635fdf978d
+run_name: XGBClassifier
+run_uuid: 094e6813fe3c45b2a93be6635fdf978d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735432257977
+status: 3
+tags: []
+user_id: amine

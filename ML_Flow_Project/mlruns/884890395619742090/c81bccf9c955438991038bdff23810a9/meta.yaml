@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/amine/PycharmProjects/ML_Flow_Project/mlruns/884890395619742090/c81bccf9c955438991038bdff23810a9/artifacts
+deleted_time: 1735432328507
+end_time: 1735432140160
+entry_point_name: ''
+experiment_id: '884890395619742090'
+lifecycle_stage: deleted
+run_id: c81bccf9c955438991038bdff23810a9
+run_name: Random Forest
+run_uuid: c81bccf9c955438991038bdff23810a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735432131433
+status: 3
+tags: []
+user_id: amine

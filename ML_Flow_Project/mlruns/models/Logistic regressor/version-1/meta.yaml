@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1735517279652
+current_stage: None
+description: ''
+last_updated_timestamp: 1735517279652
+name: Logistic regressor
+run_id: 61083b71cf624eeebe77f5eef89c42fd
+run_link: ''
+source: mlflow-artifacts:/462502940406477728/61083b71cf624eeebe77f5eef89c42fd/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/462502940406477728/61083b71cf624eeebe77f5eef89c42fd/artifacts/model
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/462502940406477728/5508a5e082ef469aa02dd74edd09653b/artifacts
+end_time: 1735514241953
+entry_point_name: ''
+experiment_id: '462502940406477728'
+lifecycle_stage: active
+run_id: 5508a5e082ef469aa02dd74edd09653b
+run_name: LR c=0.5
+run_uuid: 5508a5e082ef469aa02dd74edd09653b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735514237412
+status: 3
+tags: []
+user_id: amine

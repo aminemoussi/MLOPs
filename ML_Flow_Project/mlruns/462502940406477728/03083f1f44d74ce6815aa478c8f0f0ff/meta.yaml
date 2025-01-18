@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/462502940406477728/03083f1f44d74ce6815aa478c8f0f0ff/artifacts
+end_time: 1735514253649
+entry_point_name: ''
+experiment_id: '462502940406477728'
+lifecycle_stage: active
+run_id: 03083f1f44d74ce6815aa478c8f0f0ff
+run_name: XGB
+run_uuid: 03083f1f44d74ce6815aa478c8f0f0ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735514246580
+status: 3
+tags: []
+user_id: amine

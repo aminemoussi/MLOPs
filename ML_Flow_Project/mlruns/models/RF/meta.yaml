@@ -1,0 +1,10 @@
+aliases:
+  challenger: '1'
+creation_timestamp: 1735517217088
+description: 'The model was trained on the first version of the dataset, with the
+  following parameters [RandomForestClassifier**(n_estimators=30, max_depth=3)**],
+  its recall on the 2nd class was **%86**.
+
+  '
+last_updated_timestamp: 1735517250594
+name: RF
